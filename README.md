@@ -6,7 +6,7 @@ A simple web interface to deploy projects via git
 License
 -------
 
-Copyright (c) <año> <autores>
+Copyright (c) 2013 Israel Viana <http://israelviana.es>
 
 Permission is hereby granted, free of charge, to any
 person obtaining a copy of this software and associated
